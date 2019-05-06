@@ -1,13 +1,5 @@
 ## In class exercise
 
-**To submit your answers go to the following repository**
-
-Scripts usually start out working well for a certain task and then get repurposed
-for other task. In our case, the script works fine if there is one header
-line in the input files, but if will fail or generate contaminated data if there are
-additional lines. The number of header lines allowed in our program is indicated only in
-one place.
-
 1. If you wanted to reuse this program for a file that had 17 headers lines. What line of code
 would you change in our program?
 
