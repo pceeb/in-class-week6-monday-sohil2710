@@ -34,4 +34,6 @@ characters. In this case is a good idea to define a new variable that takes the 
 provide by the user. Using what you learn about `sys.argv` in this class`.
 Write a variable that reads a delimiter (e.g ',') provided as the first input file.
 
-        Write your code here:__ 
+        Write your code here:__ I am unsure about this Daniel
+        
+        FileDelimiter= sys.argv[1:]
